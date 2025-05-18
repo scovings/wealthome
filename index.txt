@@ -7,7 +7,7 @@ This is a realestate website devloped by scovings
 
 #---------- HEADER ----------#
 
-alt = logo
+alt = wealthome
 
 Home
 Rent
